@@ -48,6 +48,7 @@ necessarily need to meet anyway, so this did not cause any hindrances
         - Keeping files in the folders as proof of work, but in actual implementation it would be removed
 - Not much intercommunication between app half of group and game half
     - Not really needed but it would be nice; but there isn't much to say
+    - Problems with the app that I cannot help with; group member starting very late into the project (Caitlyn + Alex)
 - Tested functionality of exporting a Unity game into android studio at the start and had a lot of trouble with it. Got it working eventually and now know how to do it
     - Writing this with code incomplete, so it is unknown how successful it will be with our actual completed game and their completed app
         - Was testing it with a dummy game and default tutorial app layout
